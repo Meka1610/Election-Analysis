@@ -14,15 +14,12 @@ Create a successful code written within Python that can then be used to audit ot
 
 Election Audit Results
 
-
 See attached document for supporting proof of election results discussed below: [election_results.csv](https://github.com/Meka1610/Election-Analysis/files/9477249/election_results.csv)
 [election_analysis.txt](https://github.com/Meka1610/Election-Analysis/files/9477250/election_analysis.txt)
-
 
 1.	Total Votes
 
         369,711
-
 
 2.	County Votes
 
@@ -38,11 +35,9 @@ See attached document for supporting proof of election results discussed below: 
   
     	38,855, 306,055, and 24,801         
 
-
 3.	Largest County Turnout 
   
         Denver
-
 
 4.	Candidates
 
@@ -58,7 +53,6 @@ See attached document for supporting proof of election results discussed below: 
     
         85,213, 272,892, and 11,606 respectively
 
-
 5.	Winner of Election
 
         Candidate – Diana DeGette
@@ -67,13 +61,10 @@ See attached document for supporting proof of election results discussed below: 
       
         Her Percentage of Total Votes – 73.8%
 
-
 Election Audit Summary
 
 To the Election Commission, the script (click here  ), is a great tool to help audit and tabulate future elections regardless of scale of the election. The script in its current state can be modified to drill down further with several modification ideas.
 
-   Modification 1 & 2
-
-   Additional metrics that take a deeper look at each candidates turnout totality could be broken    down further by understanding additional key contributors like education, income, age, gender,    religion, and race of their voters. These additional values would lead to some interesting        finds of how votes are being shaped respectively within counties, states, regionally and          nationally. The script could be modified to indicate party lines, (i.e., democratic,              republican, or independent). 
+Additional metrics that take a deeper look at each candidates turnout totality could be broken    down further by understanding additional key contributors like education, income, age, gender,    religion, and race of their voters. These additional values would lead to some interesting        finds of how votes are being shaped respectively within counties, states, regionally and          nationally. The script could be modified to indicate party lines, (i.e., democratic,              republican, or independent). 
 
 With this script the sky is the limit. 
