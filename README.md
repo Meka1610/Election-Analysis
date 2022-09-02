@@ -4,10 +4,10 @@ Overview of Election Audit
 
 Aiding a Colorado Board of Elections employer named Tom in an election audit tabulated results for US congressional precinct in Colorado. He is looking for the below information:
 
-    	Total votes
-    	Total number of votes for each candidate
-    	The percentage of votes for each candidate
-    	Winner of election based on popular vote
+    Total votes
+    Total number of votes for each candidate
+    The percentage of votes for each candidate
+    Winner of election based on popular vote
 
 Create a successful code written within Python that can then be used to audit other elections at varies levels.  
 
