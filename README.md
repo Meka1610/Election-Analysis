@@ -34,7 +34,6 @@ See attached document called ‘election_analysis.text’ for supporting proof o
   
     	38,855, 306,055, and 24,801         
 
-[README.md](https://github.com/Meka1610/Election-Analysis/files/9477165/README.md)
 
 3.	Largest County Turnout 
   
