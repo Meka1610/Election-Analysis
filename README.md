@@ -13,7 +13,9 @@ Create a successful code written within Python that can then be used to audit ot
 
 Election Audit Results
 
-See attached document called ‘election_analysis.text’ for supporting proof of election results discussed below: 
+See attached document for supporting proof of election results discussed below: [election_results.csv](https://github.com/Meka1610/Election-Analysis/files/9477249/election_results.csv)
+[election_analysis.txt](https://github.com/Meka1610/Election-Analysis/files/9477250/election_analysis.txt)
+
 
 1.	Total Votes
 
